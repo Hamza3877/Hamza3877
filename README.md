@@ -40,7 +40,11 @@ Waxpal (https://play.google.com/store/apps/details?id=com.fxswede.waxpal&pcampai
 ---
 
 # 🛠 Skills
-Python | Java | C# | Asp.Net Core MVC6  | Laravel | Machine Learning | LLMs | RAG | APIs | System Design | JavaScript | React | HTML5 | CSS3 | Bootstrap | Tailwind | CSS | jQuery | XML | TypeScript | ASP.NET CORE MVC6 | C# | Python | Java | SQL | SQL Server Database | Oracle Database | Firebase | REST APIs | API Integration | JSON | Git/Github | Redux | Jira | Azure Cloud
+JavaScript | React | HTML5 | CSS3 | Bootstrap | Tailwind | CSS | jQuery | XML | TypeScript | ASP.NET CORE MVC6 | C# | Python | Java | SQL | SQL Server Database | Oracle Database | Firebase | REST APIs | API Integration | JSON | Git/Github | Redux | Jira | Azure Cloud |  Python | Java | C# | Asp.Net Core MVC6  | Laravel | Machine Learning | LLMs | RAG | APIs | System Design |  PHP Laravel | MySQL | Google Ai Studio | Google Antigravity | AI API Integration | n8n |Make | Zapier | Workflow Automation | Google Cloud Run | Google Cloud Platform
+
+
+
+
 
 ---
 
