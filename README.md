@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a Software Engineer with 4.5+ years of experience building and delivering full-stack web and mobile applications, API integrations, Machine Learning, workflow automation, and AI-powered features. Strong problem-solving, leadership, communication, and management skills, with the ability to work effectively both in teams and independently. Experienced in managing projects from architecture and planning through development, testing, deployment, and documentation.
+I am a Software Engineer with 4.5+ years of experience building and delivering full-stack web and mobile applications, API integrations, Machine Learning, workflow automation, and AI-powered features. Strong problem-solving, leadership, communication, and management skills, with the ability to work effectively both in teams and independently. Experienced in managing projects from architecture and planning through development, testing, deployment, and documentation, with hands-on exposure to Odoo ERP and business process workflows through self-directed learning and practical projects..
 
 ---
 
