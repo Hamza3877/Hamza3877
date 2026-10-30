@@ -1,10 +1,25 @@
 # 👋 About Me
 
-I am a Software Engineer with 4.5+ years of experience building and delivering full-stack web and mobile applications, API integrations, Machine Learning, workflow automation, and AI-powered features. Strong problem-solving, leadership, communication, and management skills, with the ability to work effectively both in teams and independently. Experienced in managing projects from architecture and planning through development, testing, deployment, and documentation.
+I am a Software Engineer with 4.5+ years of experience building and delivering full-stack web and mobile applications, API integrations, Machine Learning, workflow automation, and AI-features integrations. Strong problem-solving, leadership, communication, and management skills, with the ability to work effectively both in teams and independently. Experienced in managing projects from architecture and planning through development, testing, deployment, and documentation.
 
 ---
 
 # 🚀 Featured Projects
+
+### BookFlow: Multi-Tenant Booking & Rental Platform | React, Next.js, TypeScript, Node.js, Express, MongoDB, Redux Toolkit, TanStack Query, Tailwind CSS, Stripe, Gemini AI
+Live: https://bookflow-puce.vercel.app/ | Code: https://github.com/Hamza3877/bookflow
+
+
+###FleetDesk: Car Rental Booking and Operations Platform | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Redux Toolkit, TanStack Query, GraphQL, PostgreSQL (Supabase), Stripe
+Live: https://fleetdesk-booking-platform.vercel.app/ | Code: https://github.com/Hamza3877/fleetdesk-booking-platform
+
+###HireFlow | ASP.NET Core Web API (.NET 10), Microservices, Entity Framework Core, SQL Server, JWT, Angular, Next.js, xUnit
+Carrier Site Live: https://hireflow-careers-fawn.vercel.app/ | Staff App Live: https://hireflow-admin-1u8.pages.dev/ | Code: https://github.com/Hamza3877/HireFlow
+
+###Inventory & Sales Manager | ASP.NET Core MVC (.NET 10), C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, Bootstrap 5, jQuery, xUnit
+Live: https://inventory-sales-app.tryasp.net/ | Code: https://github.com/Hamza3877/inventory-sales-app
+
+
 
 ### 🎬 Movie & TV Success Prediction System
 - ML-based prediction system using ensemble learning
@@ -32,15 +47,15 @@ PLUGG⁠ (https://plugg.live/)
 Waxpal (https://play.google.com/store/apps/details?id=com.fxswede.waxpal&pcampaignid=web_share)
 
 
-### 🤖 AI Applications (GPT + Gemini)
-- AI-powered apps using OpenAI GPT and Google Gemini APIs
+### 🤖 AI features integrations (GPT + Gemini)
+- AI-integrations using OpenAI GPT and Google Gemini APIs
 - Backend API integration and automation workflows
 
 
 ---
 
 # 🛠 Skills
-JavaScript | Next.js | MERN Stack | React | HTML5 | CSS3 | Bootstrap | Tailwind | CSS | jQuery | Blazor | XML | TypeScript | ASP.NET CORE MVC6 | C# | Python | Java | SQL | SQL Server Database | Oracle Database | Firebase | REST APIs | API Integration | JSON | Git/Github | Redux | Jira | Azure Cloud |  Python | Java | C# | Asp.Net Core MVC6  | Laravel | Machine Learning | LLMs | RAG | APIs | System Design |  PHP Laravel | MySQL | Google Ai Studio | Google Antigravity | AI API Integration | n8n |Make | Zapier | Workflow Automation | Azure | Google Cloud Run | Google Cloud Platform | Software Testing | Documentation | Management|Github|Xano|Supabase|Postman|APIIntegration|ClickUp |n8n / Make / Zapier|WordPress|Webflow|Framer|Shopify|Coding Agents|Lovable.dev|Antigravity|Firebase|ERP|CRM|Reporting
+JavaScript | Next.js | MERN Stack | React | HTML5 | CSS3 | Bootstrap | Tailwind | CSS | jQuery | Blazor | XML | TypeScript | ASP.NET CORE MVC6 | C# | Python | Java | SQL | SQL Server Database | Oracle Database | Firebase | REST APIs | API Integration | JSON | Git/Github | Redux | Jira | Azure Cloud |  Python | Java | C# | Asp.Net Core MVC6  | Laravel | Machine Learning | LLMs | RAG | APIs | System Design |  PHP Laravel | MySQL  | AI API Integration | n8n |Make | Zapier | Workflow Automation | Azure | Google Cloud Run | Google Cloud Platform | Software Testing | Documentation | Management|Github| Supabase |Postman|APIIntegration|ClickUp |n8n / Make / Zapier|Coding|Firebase|ERP|CRM|Reporting
 
 
 
