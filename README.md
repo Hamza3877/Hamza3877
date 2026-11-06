@@ -7,17 +7,17 @@ I am a Software Engineer with 4.5+ years of experience building and delivering f
 # 🚀 Featured Projects
 
 ### BookFlow: Multi-Tenant Booking & Rental Platform | React, Next.js, TypeScript, Node.js, Express, MongoDB, Redux Toolkit, TanStack Query, Tailwind CSS, Stripe, Gemini AI
-Live: https://bookflow-puce.vercel.app/ | Code: https://github.com/Hamza3877/bookflow
+Live: https://bookflow-puce.vercel.app/ 
 
 
 ###FleetDesk: Car Rental Booking and Operations Platform | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Redux Toolkit, TanStack Query, GraphQL, PostgreSQL (Supabase), Stripe
-Live: https://fleetdesk-booking-platform.vercel.app/ | Code: https://github.com/Hamza3877/fleetdesk-booking-platform
+Live: https://fleetdesk-booking-platform.vercel.app/
 
 ###HireFlow | ASP.NET Core Web API (.NET 10), Microservices, Entity Framework Core, SQL Server, JWT, Angular, Next.js, xUnit
-Carrier Site Live: https://hireflow-careers-fawn.vercel.app/ | Staff App Live: https://hireflow-admin-1u8.pages.dev/ | Code: https://github.com/Hamza3877/HireFlow
+Carrier Site Live: https://hireflow-careers-fawn.vercel.app/ | Staff App Live: https://hireflow-admin-1u8.pages.dev/
 
 ###Inventory & Sales Manager | ASP.NET Core MVC (.NET 10), C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, Bootstrap 5, jQuery, xUnit
-Live: https://inventory-sales-app.tryasp.net/ | Code: https://github.com/Hamza3877/inventory-sales-app
+Live: https://inventory-sales-app.tryasp.net/
 
 
 
