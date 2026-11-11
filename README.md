@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a Software Engineer with 4.5+ years of experience building and delivering full-stack web and mobile applications, API integrations, Machine Learning, workflow automation, and AI-features integrations. Strong problem-solving, leadership, communication, and management skills, with the ability to work effectively both in teams and independently. Experienced in managing projects from architecture and planning through development, testing, deployment, and documentation.
+I am a Software Engineer with 4.5+ years of experience building and delivering full-stack web and mobile applications, websites, ecommerce stores, API integrations, Machine Learning, workflow automation, and AI-features integrations. Strong problem-solving, leadership, communication, and management skills, with the ability to work effectively both in teams and independently. Experienced in managing projects from architecture and planning through development, testing, deployment, and documentation.
 
 ---
 
@@ -10,13 +10,13 @@ I am a Software Engineer with 4.5+ years of experience building and delivering f
 Live: https://bookflow-puce.vercel.app/ 
 
 
-###FleetDesk: Car Rental Booking and Operations Platform | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Redux Toolkit, TanStack Query, GraphQL, PostgreSQL (Supabase), Stripe
+**###FleetDesk:** Car Rental Booking and Operations Platform | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Redux Toolkit, TanStack Query, GraphQL, PostgreSQL (Supabase), Stripe
 Live: https://fleetdesk-booking-platform.vercel.app/
 
-###HireFlow | ASP.NET Core Web API (.NET 10), Microservices, Entity Framework Core, SQL Server, JWT, Angular, Next.js, xUnit
+**###HireFlow **| ASP.NET Core Web API (.NET 10), Microservices, Entity Framework Core, SQL Server, JWT, Angular, Next.js, xUnit
 Carrier Site Live: https://hireflow-careers-fawn.vercel.app/ | Staff App Live: https://hireflow-admin-1u8.pages.dev/
 
-###Inventory & Sales Manager | ASP.NET Core MVC (.NET 10), C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, Bootstrap 5, jQuery, xUnit
+**###Inventory & Sales Manager** | ASP.NET Core MVC (.NET 10), C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, Bootstrap 5, jQuery, xUnit
 Live: https://inventory-sales-app.tryasp.net/
 
 
@@ -32,19 +32,8 @@ Live: https://inventory-sales-app.tryasp.net/
 - Feature engineering + optimization techniques
 - Research Paper Google Drive link: https://drive.google.com/file/d/18Qq2SSAfGEaH8ZkEb9j60SNo1H1l-tQR/view?usp=sharing
 
-SAQCC Fire⁠  (https://saqccfire.co.za/)
 
 SAMAJH AI⁠ (https://github.com/Hamza3877/SAMAJH-AI)
-
-Loads.sa⁠ (https://loads.sa/)
-
-Bix Card⁠ (https://bixcard.com/)
-
-REDESETGo⁠ (https://redesetgo.com/)
-
-PLUGG⁠ (https://plugg.live/)
-
-Waxpal (https://play.google.com/store/apps/details?id=com.fxswede.waxpal&pcampaignid=web_share)
 
 
 ### 🤖 AI features integrations (GPT + Gemini)
@@ -65,4 +54,8 @@ JavaScript | Next.js | MERN Stack | React | HTML5 | CSS3 | Bootstrap | Tailwind 
 ---
 
 # 📫 Contact
+
+Linkedin;- https://www.linkedin.com/in/hamza-i-9b99a82b2/
+
 GitHub: https://github.com/Hamza3877
+
